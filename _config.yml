@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Benjamin Zubaly"
-  avatar           : "profile.png"
-  bio              : "Benjamin Zubaly's Bio"
-  location         : "Vancouver, British Columbia, Canada"
-  employer         :
+  avatar           : "profile.jpg"
+  bio              : "Undergraduate Researcher"
+  location         : "Vancouver, BC"
+  employer         : "Trinity Western University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "benjaminjzubaly@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Benjamin_Zubaly"
   uri              :
   bitbucket        :
   codepen          :
