@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Benjamin J Zubaly"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Benjamin J Zubaly"
 description              : &description "personal description"
