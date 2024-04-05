@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  osf              : https://osf.io/auqpz/
+  osf              : "https://osf.io/auqpz/"
 
 # Reading Files
 include:
