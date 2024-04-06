@@ -10,7 +10,7 @@ redirect_from:
 
 Originally from North Idaho, I will soon graduate with my honours psychology degree from Trinity Western University (TWU) in British Columbia. I am most interested in our evolved minds—particularly relating to moral and social phenomena—and will pursue a PhD in evolutionary pyschology within the next couple years. Currently, I am looking for a post-bacc research job (e.g., lab manager, research assistant) to prepare financially for graduate school (hire me!).
 
-During my undergraduate I have strived to put myself in positions that challenge me and facilitate my professional growth, including as a research assistant, teaching assistant, statistics tutor, writing tutor, proofreader, behavior technician, and various student leadership roles. For my full professional history, check out my CV via the link above.
+During my undergraduate I have strived to put myself in positions that challenge me and facilitate my professional growth, including as a research assistant, teaching assistant, statistics tutor, writing tutor, proofreader, behavior technician, and various student leadership roles. For my full professional history, [check out my CV](/files/CV.pdf).
 
 Current Projects
 ======
@@ -20,4 +20,4 @@ Working in Dr. Kelly Arbeau's Health Psychology Lab, I am assisting with writing
 
 This summer, I will be carrying out an Undergraduate Student Research Award to investigate competing evolutionary explanations for the relationship between disgust sensitivity and religiosity.
 
-Finally, I have recently finished up my undergraduate honours thesis, a text-analysis study investigating linguistic features of fraudulent research papers to make inferences about the psychology of scientific fraud.
+Finally, I have recently finished up my undergraduate honours thesis, a text-analysis study investigating linguistic features of fraudulent research papers to make inferences about the psychology of scientific fraud. Check out the manuscript [here](/files/thesis_manuscript.pdf) and the data and code [here](https://github.com/BenjaminJZubaly/Undergraduate-Thesis-Data-Analysis).
