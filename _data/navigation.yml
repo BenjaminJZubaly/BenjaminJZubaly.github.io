@@ -12,8 +12,8 @@ main:
   - title: "Media Coverage"
     url: /media/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Public Scholarship"
+    url: /public_scholarship/
     
   - title: "CV"
     url: /files/CV.pdf
