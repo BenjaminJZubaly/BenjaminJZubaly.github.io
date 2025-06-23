@@ -83,12 +83,12 @@ author:
   name             : "Benjamin Zubaly"
   avatar           : "profile.jpg"
   bio              : "Incoming graduate student"
-  location         : "Boise, ID"
+  location         :
   employer         : "University of Michigan"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  email            : "benjaminjzubaly@gmail.com"
+  email            : "bzubaly@umich.edu"
   googlescholar    : "https://scholar.google.com/citations?user=imQFC1cAAAAJ&hl=en"
-  researchgate     : # "https://www.researchgate.net/profile/Benjamin_Zubaly"
+  researchgate     : "https://www.researchgate.net/profile/Benjamin_Zubaly"
   uri              :
   bitbucket        :
   codepen          :
