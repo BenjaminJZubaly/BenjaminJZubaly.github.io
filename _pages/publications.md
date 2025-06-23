@@ -9,9 +9,9 @@ You can also view my publications on my [Google Scholar](https://scholar.google.
 
 {% include base_path %}
 
-<!--## Preprints
-**Sociosexual Attitudes Mediate the Relationship Between Behavioral Immune System Reactivity and Religiosity** <br> [View on OSF](https://doi.org/10.1007/s40750-024-00254-1){:target="_blank"} | [Download Preprint]({{ "/files/thesis_manuscript.pdf" | relative_url }}){:target="_blank"} -->
-
+## Preprints
+<!--**Sociosexual Attitudes Mediate the Relationship Between Behavioral Immune System Reactivity and Religiosity** <br> [View on OSF](https://doi.org/10.1007/s40750-024-00254-1){:target="_blank"} | [Download Preprint]({{ "/files/thesis_manuscript.pdf" | relative_url }}){:target="_blank"} -->
+**Sociosexual Attitudes Mediate the Relationship Between Behavioral Immune System Reactivity and Religiosity** <br> In press at *Evolutionary Behavioral Sciences* | [Download Preprint]({{ "/files/disgust_and_religiosity_preprint.pdf" | relative_url }}){:target="_blank"}
 
 ---
 ## Journal Articles
