@@ -11,12 +11,17 @@ You can also view my publications on my [Google Scholar](https://scholar.google.
 
 ## Preprints
 <!--**Sociosexual Attitudes Mediate the Relationship Between Behavioral Immune System Reactivity and Religiosity** <br> [View on OSF](https://doi.org/10.1007/s40750-024-00254-1){:target="_blank"} | [Download Preprint]({{ "/files/thesis_manuscript.pdf" | relative_url }}){:target="_blank"} -->
-**Sociosexual Attitudes Mediate the Relationship Between Behavioral Immune System Reactivity and Religiosity** <br> In press at *Evolutionary Behavioral Sciences* | [Download Preprint]({{ "/files/disgust_and_religiosity_preprint.pdf" | relative_url }}){:target="_blank"}
+**** <br> In press at ** | [Download Preprint]({{ "/files/disgust_and_religiosity_preprint.pdf" | relative_url }}){:target="_blank"}
 
 ---
 ## Journal Articles
 
 ### 2025
+
+**Sociosexual Attitudes Mediate the Relationship Between Behavioral Immune System Reactivity and Religiosity** <br> *Evolutionary Behavioral Sciences*, 2025 <br> [View Online](https://psycnet.apa.org/doi/10.1037/ebs0000388){:target="_blank"} | [Download PDF]({{ "/files/zubaly_arbeau_palmer-hague_2025_sociosexual_attitudes_mediate_the_relationship_between_behavioral_immune_system_reactivity_and_religiosity.pdf" | relative_url }}){:target="_blank"} | 
+<a href="#" onclick="copyCitation('citation1'); return false;">Copy APA Citation</a>  
+<span id="citation1" style="display:none;">
+Zubaly, B., Arbeau, K., Palmer-Hague, J. (2025). Sociosexual Attitudes Mediate the Relationship Between Behavioral Immune System Reactivity and Religiosity. *Evolutionary Behavioral Sciences*, Online First Article. https://psycnet.apa.org/doi/10.1037/ebs0000388
 
 **Fathers’ Facial Dominance Predicts First-born Sons in Parent Dyads** <br> *Adaptive Human Behavior and Physiology*, 2025 <br> [View Online](https://doi.org/10.1007/s40750-024-00254-1){:target="_blank"} | [Download PDF]({{ "/files/Zubaly_Palmer-Hague_2025_fathers_facial_dominance_predicts_first-born_sons_in_parent_dyads.pdf" | relative_url }}){:target="_blank"} | 
 <a href="#" onclick="copyCitation('citation1'); return false;">Copy APA Citation</a>  
