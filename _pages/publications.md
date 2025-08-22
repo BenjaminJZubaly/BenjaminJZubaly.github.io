@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also view my publications on my [Google Scholar](https://scholar.google.com/citations?user=imQFC1cAAAAJ&hl=en){:target="_blank"}.
+Last updated August 22, 2025. You can also view my current publications on my [Google Scholar](https://scholar.google.com/citations?user=imQFC1cAAAAJ&hl=en){:target="_blank"}.
 
 {% include base_path %}
 
