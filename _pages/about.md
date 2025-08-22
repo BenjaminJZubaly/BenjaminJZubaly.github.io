@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a social psychology Ph.D. student at the University of Michigan in Josh Ackerman's [Evolutionary Social Psychology Lab](https://sites.lsa.umich.edu/esplab/). I am interested in our evolved minds and societies.
+I am a social psychology [Ph.D. student at the University of Michigan](https://lsa.umich.edu/psych/people/graduate-students/bzubaly.html){:target="_blank"} in Josh Ackerman's [Evolutionary Social Psychology Lab](https://sites.lsa.umich.edu/esplab/){:target="_blank"}. I am interested in our evolved minds and societies.
 
 Please use the menu above to navigate to my research work.
 
