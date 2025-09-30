@@ -19,7 +19,7 @@ None at the moment!
 
 ### 2025
 
-**Women’s Intrasexual Competitiveness, But Not Fertility, Predicts Greater Competitive Behavior Toward Attractive Women Across the Menstrual Cycle** <br> Jaime Palmer-Hague, Jade Stobbart, and **Benjamin Zubaly** <br> *Evolution and Human Behavior*, 2025 <br> [View Online](https://doi.org/10.1016/j.evolhumbehav.2025.106760){:target="_blank"} | [Download PDF]({{ "/files/palmer-hague_stobbart_zubaly_2025_womens_intrasexual_competitiveness_but_not_fertility_predicts_greater_competitive_behavior_toward_attractive_women_across_the_menstrual_cycle.pdf" | relative_url }}){:target="_blank"} | 
+**Women’s Intrasexual Competitiveness, But Not Fertility, Predicts Greater Competitive Behavior Toward Attractive Women Across the Menstrual Cycle** <br> Jaime Palmer-Hague, Jade Stobbart, **Benjamin Zubaly** <br> *Evolution and Human Behavior*, 2025 <br> [View Online](https://doi.org/10.1016/j.evolhumbehav.2025.106760){:target="_blank"} | [Download PDF]({{ "/files/palmer-hague_stobbart_zubaly_2025_womens_intrasexual_competitiveness_but_not_fertility_predicts_greater_competitive_behavior_toward_attractive_women_across_the_menstrual_cycle.pdf" | relative_url }}){:target="_blank"} | 
 <a href="#" onclick="copyCitation('citation1'); return false;">Copy APA Citation</a>  
 <span id="citation1" style="display:none;">
 Palmer-Hague, J., Stobbart, J., Zubaly, B. (2025). Women’s intrasexual competitiveness, but not fertility, predicts greater competitive behavior toward attractive women across the menstrual cycle. Evolution and Human Behavior, 46(6), 106760. https://doi.org/10.1016/j.evolhumbehav.2025.106760
