@@ -19,7 +19,7 @@ None at the moment!
 
 ### 2026
 
-**Why I declare a conflict of interest and you should not** <br> Kelly Arbeau, Kathleen Steeves,  **Benjamin Zubaly**, Cass Thorpe & Hannah Todd<br> *Journal of Medical Humanities*, 2026 <br> [View Online](https://doi.org/10.1007/s10912-026-10021-w){:target="_blank"} | [Download PDF]({{ "/files/arbeau_et_al_2026_drawings_of_the_self_reveal_lived_experiences_of_the_pandemic.pdf" | relative_url }}){:target="_blank"} | 
+**Drawings of the Self During COVID-19 Reveal Lived Experiences of the Pandemic** <br> Kelly Arbeau, Kathleen Steeves,  **Benjamin Zubaly**, Cass Thorpe & Hannah Todd<br> *Journal of Medical Humanities*, 2026 <br> [View Online](https://doi.org/10.1007/s10912-026-10021-w){:target="_blank"} | [Download PDF]({{ "/files/arbeau_et_al_2026_drawings_of_the_self_reveal_lived_experiences_of_the_pandemic.pdf" | relative_url }}){:target="_blank"} | 
 <a href="#" onclick="copyCitation('citation1'); return false;">Copy APA Citation</a>  
 <span id="citation1" style="display:none;">
 J. Arbeau, K., Steeves, K., Zubaly, B., Thorpe, C., & Todd, H. (2026). Drawings of the Self During COVID-19 Reveal Lived Experiences of the Pandemic. Journal of Medical Humanities. https://doi.org/10.1007/s10912-026-10021-w
