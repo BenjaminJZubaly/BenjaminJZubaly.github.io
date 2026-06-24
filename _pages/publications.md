@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated November 13, 2025.
+Last updated June 24, 2026.
 
 You can also view my current publications on my [Google Scholar](https://scholar.google.com/citations?user=imQFC1cAAAAJ&hl=en){:target="_blank"}.
 
