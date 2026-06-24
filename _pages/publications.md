@@ -49,16 +49,6 @@ Zubaly, B., Palmer-Hague, J. (2025). Fathers’ facial dominance predicts first-
 </span>
 
 
----
-## Undergraduate Thesis
-
-**The Psychology of Scientific Fraud** <br> *Trinity Western University*, 2024 <br> [Download Manuscript]({{ "/files/thesis_manuscript.pdf" | relative_url }}){:target="_blank"}
-
-
-
-
-
-
 <script>
   function copyCitation(id) {
     var citation = document.getElementById(id).textContent;
