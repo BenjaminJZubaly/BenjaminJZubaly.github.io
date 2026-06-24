@@ -17,6 +17,13 @@ None at the moment!
 ---
 ## Journal Articles
 
+### 2026
+
+**Why I declare a conflict of interest and you should not** <br> Kelly Arbeau, Kathleen Steeves,  **Benjamin Zubaly**, Cass Thorpe & Hannah Todd<br> *Journal of Medical Humanities*, 2026 <br> [View Online](https://doi.org/10.1007/s10912-026-10021-w){:target="_blank"} | [Download PDF]({{ "/files/arbeau_et_al_2026_drawings_of_the_self_reveal_lived_experiences_of_the_pandemic.pdf" | relative_url }}){:target="_blank"} | 
+<a href="#" onclick="copyCitation('citation1'); return false;">Copy APA Citation</a>  
+<span id="citation1" style="display:none;">
+J. Arbeau, K., Steeves, K., Zubaly, B., Thorpe, C., & Todd, H. (2026). Drawings of the Self During COVID-19 Reveal Lived Experiences of the Pandemic. Journal of Medical Humanities. https://doi.org/10.1007/s10912-026-10021-w
+
 ### 2025
 
 **Why I declare a conflict of interest and you should not** <br> Ensar Acem, Balazs Aczel, Nihan Albayrak, Nicholas Brown, Leonie Dudda, Mahmoud Medhat Elsherif, Biljana Gjoneska, Marta Kowal, Anand Krishna, Szymon Miłkoś, Mariola Paruzel-Czachura, Jay Patel, Katarzyna Pypno-Blajda, Ingrid Scharlau, Steven Verheyen & **Benjamin Zubaly** <br> *Theory and Society*, 2025 <br> [View Online](https://doi.org/10.1007/s11186-025-09641-3){:target="_blank"} | [Download PDF]({{ "/files/acem_et_al_2025_why_I_declare_a_conflict_of_interest_and_you_should_not.pdf" | relative_url }}){:target="_blank"} | 
